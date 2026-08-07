@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portfolio-by-sohaib-ds.netlify.app/sitemap.xml
